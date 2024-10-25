@@ -1,0 +1,20 @@
+C:\Users\efevo\source\repos\Clock Repairs\Clock Repairs\bin\Debug\Clock Repairs.exe.config
+C:\Users\efevo\source\repos\Clock Repairs\Clock Repairs\bin\Debug\Clock Repairs.exe
+C:\Users\efevo\source\repos\Clock Repairs\Clock Repairs\bin\Debug\Clock Repairs.pdb
+C:\Users\efevo\source\repos\Clock Repairs\Clock Repairs\obj\Debug\Clock Repairs.csproj.AssemblyReference.cache
+C:\Users\efevo\source\repos\Clock Repairs\Clock Repairs\obj\Debug\Clock_Repairs.Giris.resources
+C:\Users\efevo\source\repos\Clock Repairs\Clock Repairs\obj\Debug\Clock_Repairs.Menü.resources
+C:\Users\efevo\source\repos\Clock Repairs\Clock Repairs\obj\Debug\Clock_Repairs.Properties.Resources.resources
+C:\Users\efevo\source\repos\Clock Repairs\Clock Repairs\obj\Debug\Clock Repairs.csproj.GenerateResource.cache
+C:\Users\efevo\source\repos\Clock Repairs\Clock Repairs\obj\Debug\Clock Repairs.csproj.CoreCompileInputs.cache
+C:\Users\efevo\source\repos\Clock Repairs\Clock Repairs\obj\Debug\Clock Repairs.exe
+C:\Users\efevo\source\repos\Clock Repairs\Clock Repairs\obj\Debug\Clock Repairs.pdb
+C:\Users\efevo\source\repos\Clock Repairs\Clock Repairs\obj\Debug\Clock_Repairs.Ayarlar.resources
+C:\Users\efevo\source\repos\Clock Repairs\Clock Repairs\obj\Debug\Clock_Repairs.Sorgula.resources
+C:\Users\efevo\source\repos\Clock Repairs\Clock Repairs\obj\Debug\Clock_Repairs.Tamir_Bitir.resources
+C:\Users\efevo\source\repos\Clock Repairs\Clock Repairs\obj\Debug\Clock_Repairs.Tamir_Giriş.resources
+C:\Users\efevo\source\repos\Clock Repairs\Clock Repairs\obj\Debug\Clock_Repairs.Teslim_Alma.resources
+C:\Users\efevo\source\repos\Clock Repairs\Clock Repairs\obj\Debug\Clock_Repairs.Teslim_Etme.resources
+C:\Users\efevo\source\repos\Clock Repairs\Clock Repairs\obj\Debug\Clock_Repairs.Düzenleme.resources
+C:\Users\efevo\source\repos\Clock Repairs\Clock Repairs\obj\Debug\Clock_Repairs.Model_Giriş.resources
+C:\Users\efevo\source\repos\Clock Repairs\Clock Repairs\obj\Debug\Clock_Repairs.Şifre_Düzenleme.resources

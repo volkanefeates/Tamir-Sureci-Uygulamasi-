@@ -1,0 +1,336 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\efevo\\source\\repos\\Clock Repairs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8C0D4D9E-56AC-4BDD-BC62-BE5B243D2CBB}|Clock Repairs\\Clock Repairs.csproj|C:\\Users\\efevo\\source\\repos\\Clock Repairs\\clock repairs\\sabit_kodlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C0D4D9E-56AC-4BDD-BC62-BE5B243D2CBB}|Clock Repairs\\Clock Repairs.csproj|solutionrelative:clock repairs\\sabit_kodlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C0D4D9E-56AC-4BDD-BC62-BE5B243D2CBB}|Clock Repairs\\Clock Repairs.csproj|c:\\users\\efevo\\source\\repos\\clock repairs\\clock repairs\\sorgula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C0D4D9E-56AC-4BDD-BC62-BE5B243D2CBB}|Clock Repairs\\Clock Repairs.csproj|solutionrelative:clock repairs\\sorgula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C0D4D9E-56AC-4BDD-BC62-BE5B243D2CBB}|Clock Repairs\\Clock Repairs.csproj|C:\\Users\\efevo\\source\\repos\\Clock Repairs\\clock repairs\\sorgula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8C0D4D9E-56AC-4BDD-BC62-BE5B243D2CBB}|Clock Repairs\\Clock Repairs.csproj|solutionrelative:clock repairs\\sorgula.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C0D4D9E-56AC-4BDD-BC62-BE5B243D2CBB}|Clock Repairs\\Clock Repairs.csproj|C:\\Users\\efevo\\source\\repos\\Clock Repairs\\clock repairs\\d\u00FCzenleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C0D4D9E-56AC-4BDD-BC62-BE5B243D2CBB}|Clock Repairs\\Clock Repairs.csproj|solutionrelative:clock repairs\\d\u00FCzenleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C0D4D9E-56AC-4BDD-BC62-BE5B243D2CBB}|Clock Repairs\\Clock Repairs.csproj|C:\\Users\\efevo\\source\\repos\\Clock Repairs\\clock repairs\\d\u00FCzenleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8C0D4D9E-56AC-4BDD-BC62-BE5B243D2CBB}|Clock Repairs\\Clock Repairs.csproj|solutionrelative:clock repairs\\d\u00FCzenleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C0D4D9E-56AC-4BDD-BC62-BE5B243D2CBB}|Clock Repairs\\Clock Repairs.csproj|C:\\Users\\efevo\\source\\repos\\Clock Repairs\\clock repairs\\\u015Fifre_d\u00FCzenleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C0D4D9E-56AC-4BDD-BC62-BE5B243D2CBB}|Clock Repairs\\Clock Repairs.csproj|solutionrelative:clock repairs\\\u015Fifre_d\u00FCzenleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C0D4D9E-56AC-4BDD-BC62-BE5B243D2CBB}|Clock Repairs\\Clock Repairs.csproj|C:\\Users\\efevo\\source\\repos\\Clock Repairs\\clock repairs\\\u015Fifre_d\u00FCzenleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8C0D4D9E-56AC-4BDD-BC62-BE5B243D2CBB}|Clock Repairs\\Clock Repairs.csproj|solutionrelative:clock repairs\\\u015Fifre_d\u00FCzenleme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C0D4D9E-56AC-4BDD-BC62-BE5B243D2CBB}|Clock Repairs\\Clock Repairs.csproj|C:\\Users\\efevo\\source\\repos\\Clock Repairs\\clock repairs\\teslim alma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C0D4D9E-56AC-4BDD-BC62-BE5B243D2CBB}|Clock Repairs\\Clock Repairs.csproj|solutionrelative:clock repairs\\teslim alma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C0D4D9E-56AC-4BDD-BC62-BE5B243D2CBB}|Clock Repairs\\Clock Repairs.csproj|C:\\Users\\efevo\\source\\repos\\Clock Repairs\\clock repairs\\teslim alma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8C0D4D9E-56AC-4BDD-BC62-BE5B243D2CBB}|Clock Repairs\\Clock Repairs.csproj|solutionrelative:clock repairs\\teslim alma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C0D4D9E-56AC-4BDD-BC62-BE5B243D2CBB}|Clock Repairs\\Clock Repairs.csproj|C:\\Users\\efevo\\source\\repos\\Clock Repairs\\clock repairs\\tamir giri\u015F.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8C0D4D9E-56AC-4BDD-BC62-BE5B243D2CBB}|Clock Repairs\\Clock Repairs.csproj|solutionrelative:clock repairs\\tamir giri\u015F.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C0D4D9E-56AC-4BDD-BC62-BE5B243D2CBB}|Clock Repairs\\Clock Repairs.csproj|C:\\Users\\efevo\\source\\repos\\Clock Repairs\\clock repairs\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C0D4D9E-56AC-4BDD-BC62-BE5B243D2CBB}|Clock Repairs\\Clock Repairs.csproj|solutionrelative:clock repairs\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C0D4D9E-56AC-4BDD-BC62-BE5B243D2CBB}|Clock Repairs\\Clock Repairs.csproj|C:\\Users\\efevo\\source\\repos\\Clock Repairs\\clock repairs\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8C0D4D9E-56AC-4BDD-BC62-BE5B243D2CBB}|Clock Repairs\\Clock Repairs.csproj|solutionrelative:clock repairs\\giris.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C0D4D9E-56AC-4BDD-BC62-BE5B243D2CBB}|Clock Repairs\\Clock Repairs.csproj|C:\\Users\\efevo\\source\\repos\\Clock Repairs\\clock repairs\\teslim etme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C0D4D9E-56AC-4BDD-BC62-BE5B243D2CBB}|Clock Repairs\\Clock Repairs.csproj|solutionrelative:clock repairs\\teslim etme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C0D4D9E-56AC-4BDD-BC62-BE5B243D2CBB}|Clock Repairs\\Clock Repairs.csproj|C:\\Users\\efevo\\source\\repos\\Clock Repairs\\clock repairs\\teslim etme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8C0D4D9E-56AC-4BDD-BC62-BE5B243D2CBB}|Clock Repairs\\Clock Repairs.csproj|solutionrelative:clock repairs\\teslim etme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C0D4D9E-56AC-4BDD-BC62-BE5B243D2CBB}|Clock Repairs\\Clock Repairs.csproj|C:\\Users\\efevo\\source\\repos\\Clock Repairs\\clock repairs\\tamir bitir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8C0D4D9E-56AC-4BDD-BC62-BE5B243D2CBB}|Clock Repairs\\Clock Repairs.csproj|solutionrelative:clock repairs\\tamir bitir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C0D4D9E-56AC-4BDD-BC62-BE5B243D2CBB}|Clock Repairs\\Clock Repairs.csproj|C:\\Users\\efevo\\source\\repos\\Clock Repairs\\clock repairs\\model_giri\u015F.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8C0D4D9E-56AC-4BDD-BC62-BE5B243D2CBB}|Clock Repairs\\Clock Repairs.csproj|solutionrelative:clock repairs\\model_giri\u015F.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C0D4D9E-56AC-4BDD-BC62-BE5B243D2CBB}|Clock Repairs\\Clock Repairs.csproj|C:\\Users\\efevo\\source\\repos\\Clock Repairs\\clock repairs\\men\u00FC.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8C0D4D9E-56AC-4BDD-BC62-BE5B243D2CBB}|Clock Repairs\\Clock Repairs.csproj|solutionrelative:clock repairs\\men\u00FC.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C0D4D9E-56AC-4BDD-BC62-BE5B243D2CBB}|Clock Repairs\\Clock Repairs.csproj|C:\\Users\\efevo\\source\\repos\\Clock Repairs\\clock repairs\\ayarlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8C0D4D9E-56AC-4BDD-BC62-BE5B243D2CBB}|Clock Repairs\\Clock Repairs.csproj|solutionrelative:clock repairs\\ayarlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C0D4D9E-56AC-4BDD-BC62-BE5B243D2CBB}|Clock Repairs\\Clock Repairs.csproj|C:\\Users\\efevo\\source\\repos\\Clock Repairs\\clock repairs\\men\u00FC.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C0D4D9E-56AC-4BDD-BC62-BE5B243D2CBB}|Clock Repairs\\Clock Repairs.csproj|solutionrelative:clock repairs\\men\u00FC.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C0D4D9E-56AC-4BDD-BC62-BE5B243D2CBB}|Clock Repairs\\Clock Repairs.csproj|C:\\Users\\efevo\\source\\repos\\Clock Repairs\\clock repairs\\tamir bitir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C0D4D9E-56AC-4BDD-BC62-BE5B243D2CBB}|Clock Repairs\\Clock Repairs.csproj|solutionrelative:clock repairs\\tamir bitir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sorgula.cs",
+              "DocumentMoniker": "C:\\Users\\efevo\\source\\repos\\Clock Repairs\\Clock Repairs\\Sorgula.cs",
+              "RelativeDocumentMoniker": "Clock Repairs\\Sorgula.cs",
+              "ToolTip": "C:\\Users\\efevo\\source\\repos\\Clock Repairs\\Clock Repairs\\Sorgula.cs",
+              "RelativeToolTip": "Clock Repairs\\Sorgula.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T12:40:17.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Model_Giri\u015F.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\efevo\\source\\repos\\Clock Repairs\\Clock Repairs\\Model_Giri\u015F.cs",
+              "RelativeDocumentMoniker": "Clock Repairs\\Model_Giri\u015F.cs",
+              "ToolTip": "C:\\Users\\efevo\\source\\repos\\Clock Repairs\\Clock Repairs\\Model_Giri\u015F.cs [Design]",
+              "RelativeToolTip": "Clock Repairs\\Model_Giri\u015F.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-31T13:12:00.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sorgula.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\efevo\\source\\repos\\Clock Repairs\\Clock Repairs\\Sorgula.cs",
+              "RelativeDocumentMoniker": "Clock Repairs\\Sorgula.cs",
+              "ToolTip": "C:\\Users\\efevo\\source\\repos\\Clock Repairs\\Clock Repairs\\Sorgula.cs [Design]",
+              "RelativeToolTip": "Clock Repairs\\Sorgula.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T12:37:20.416Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Teslim Etme.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\efevo\\source\\repos\\Clock Repairs\\Clock Repairs\\Teslim Etme.cs",
+              "RelativeDocumentMoniker": "Clock Repairs\\Teslim Etme.cs",
+              "ToolTip": "C:\\Users\\efevo\\source\\repos\\Clock Repairs\\Clock Repairs\\Teslim Etme.cs [Design]",
+              "RelativeToolTip": "Clock Repairs\\Teslim Etme.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-06T19:17:56.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Teslim Etme.cs",
+              "DocumentMoniker": "C:\\Users\\efevo\\source\\repos\\Clock Repairs\\Clock Repairs\\Teslim Etme.cs",
+              "RelativeDocumentMoniker": "Clock Repairs\\Teslim Etme.cs",
+              "ToolTip": "C:\\Users\\efevo\\source\\repos\\Clock Repairs\\Clock Repairs\\Teslim Etme.cs",
+              "RelativeToolTip": "Clock Repairs\\Teslim Etme.cs",
+              "ViewState": "AQIAAJYAAAAAAAAAAAAgwK4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-31T12:45:42.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Sabit_Kodlar.cs",
+              "DocumentMoniker": "C:\\Users\\efevo\\source\\repos\\Clock Repairs\\Clock Repairs\\Sabit_Kodlar.cs",
+              "RelativeDocumentMoniker": "Clock Repairs\\Sabit_Kodlar.cs",
+              "ToolTip": "C:\\Users\\efevo\\source\\repos\\Clock Repairs\\Clock Repairs\\Sabit_Kodlar.cs",
+              "RelativeToolTip": "Clock Repairs\\Sabit_Kodlar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T12:43:04.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "\u015Eifre_D\u00FCzenleme.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\efevo\\source\\repos\\Clock Repairs\\Clock Repairs\\\u015Eifre_D\u00FCzenleme.cs",
+              "RelativeDocumentMoniker": "Clock Repairs\\\u015Eifre_D\u00FCzenleme.cs",
+              "ToolTip": "C:\\Users\\efevo\\source\\repos\\Clock Repairs\\Clock Repairs\\\u015Eifre_D\u00FCzenleme.cs [Design]*",
+              "RelativeToolTip": "Clock Repairs\\\u015Eifre_D\u00FCzenleme.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-10T19:54:59.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "\u015Eifre_D\u00FCzenleme.cs",
+              "DocumentMoniker": "C:\\Users\\efevo\\source\\repos\\Clock Repairs\\Clock Repairs\\\u015Eifre_D\u00FCzenleme.cs",
+              "RelativeDocumentMoniker": "Clock Repairs\\\u015Eifre_D\u00FCzenleme.cs",
+              "ToolTip": "C:\\Users\\efevo\\source\\repos\\Clock Repairs\\Clock Repairs\\\u015Eifre_D\u00FCzenleme.cs*",
+              "RelativeToolTip": "Clock Repairs\\\u015Eifre_D\u00FCzenleme.cs*",
+              "ViewState": "AQIAABcAAAAAAAAAAAAkwDMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-10T19:55:01.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "D\u00FCzenleme.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\efevo\\source\\repos\\Clock Repairs\\Clock Repairs\\D\u00FCzenleme.cs",
+              "RelativeDocumentMoniker": "Clock Repairs\\D\u00FCzenleme.cs",
+              "ToolTip": "C:\\Users\\efevo\\source\\repos\\Clock Repairs\\Clock Repairs\\D\u00FCzenleme.cs [Design]",
+              "RelativeToolTip": "Clock Repairs\\D\u00FCzenleme.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-09T13:35:03.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "D\u00FCzenleme.cs",
+              "DocumentMoniker": "C:\\Users\\efevo\\source\\repos\\Clock Repairs\\Clock Repairs\\D\u00FCzenleme.cs",
+              "RelativeDocumentMoniker": "Clock Repairs\\D\u00FCzenleme.cs",
+              "ToolTip": "C:\\Users\\efevo\\source\\repos\\Clock Repairs\\Clock Repairs\\D\u00FCzenleme.cs",
+              "RelativeToolTip": "Clock Repairs\\D\u00FCzenleme.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAANkCAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-07-31T12:52:03.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Teslim Alma.cs",
+              "DocumentMoniker": "C:\\Users\\efevo\\source\\repos\\Clock Repairs\\Clock Repairs\\Teslim Alma.cs",
+              "RelativeDocumentMoniker": "Clock Repairs\\Teslim Alma.cs",
+              "ToolTip": "C:\\Users\\efevo\\source\\repos\\Clock Repairs\\Clock Repairs\\Teslim Alma.cs",
+              "RelativeToolTip": "Clock Repairs\\Teslim Alma.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-18T03:35:01.845Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Men\u00FC.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\efevo\\source\\repos\\Clock Repairs\\Clock Repairs\\Men\u00FC.cs",
+              "RelativeDocumentMoniker": "Clock Repairs\\Men\u00FC.cs",
+              "ToolTip": "C:\\Users\\efevo\\source\\repos\\Clock Repairs\\Clock Repairs\\Men\u00FC.cs [Design]",
+              "RelativeToolTip": "Clock Repairs\\Men\u00FC.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-10T20:12:56.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Tamir Giri\u015F.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\efevo\\source\\repos\\Clock Repairs\\Clock Repairs\\Tamir Giri\u015F.cs",
+              "RelativeDocumentMoniker": "Clock Repairs\\Tamir Giri\u015F.cs",
+              "ToolTip": "C:\\Users\\efevo\\source\\repos\\Clock Repairs\\Clock Repairs\\Tamir Giri\u015F.cs [Design]",
+              "RelativeToolTip": "Clock Repairs\\Tamir Giri\u015F.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-15T17:39:20.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Teslim Alma.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\efevo\\source\\repos\\Clock Repairs\\Clock Repairs\\Teslim Alma.cs",
+              "RelativeDocumentMoniker": "Clock Repairs\\Teslim Alma.cs",
+              "ToolTip": "C:\\Users\\efevo\\source\\repos\\Clock Repairs\\Clock Repairs\\Teslim Alma.cs [Design]",
+              "RelativeToolTip": "Clock Repairs\\Teslim Alma.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-15T17:39:42.922Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Giris.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\efevo\\source\\repos\\Clock Repairs\\Clock Repairs\\Giris.cs",
+              "RelativeDocumentMoniker": "Clock Repairs\\Giris.cs",
+              "ToolTip": "C:\\Users\\efevo\\source\\repos\\Clock Repairs\\Clock Repairs\\Giris.cs [Design]",
+              "RelativeToolTip": "Clock Repairs\\Giris.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-10T20:03:07.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Giris.cs",
+              "DocumentMoniker": "C:\\Users\\efevo\\source\\repos\\Clock Repairs\\Clock Repairs\\Giris.cs",
+              "RelativeDocumentMoniker": "Clock Repairs\\Giris.cs",
+              "ToolTip": "C:\\Users\\efevo\\source\\repos\\Clock Repairs\\Clock Repairs\\Giris.cs",
+              "RelativeToolTip": "Clock Repairs\\Giris.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-10T20:03:08.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Tamir Bitir.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\efevo\\source\\repos\\Clock Repairs\\Clock Repairs\\Tamir Bitir.cs",
+              "RelativeDocumentMoniker": "Clock Repairs\\Tamir Bitir.cs",
+              "ToolTip": "C:\\Users\\efevo\\source\\repos\\Clock Repairs\\Clock Repairs\\Tamir Bitir.cs [Design]",
+              "RelativeToolTip": "Clock Repairs\\Tamir Bitir.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-09T12:44:13.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Ayarlar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\efevo\\source\\repos\\Clock Repairs\\Clock Repairs\\Ayarlar.cs",
+              "RelativeDocumentMoniker": "Clock Repairs\\Ayarlar.cs",
+              "ToolTip": "C:\\Users\\efevo\\source\\repos\\Clock Repairs\\Clock Repairs\\Ayarlar.cs [Design]",
+              "RelativeToolTip": "Clock Repairs\\Ayarlar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-15T17:37:05.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Men\u00FC.cs",
+              "DocumentMoniker": "C:\\Users\\efevo\\source\\repos\\Clock Repairs\\Clock Repairs\\Men\u00FC.cs",
+              "RelativeDocumentMoniker": "Clock Repairs\\Men\u00FC.cs",
+              "ToolTip": "C:\\Users\\efevo\\source\\repos\\Clock Repairs\\Clock Repairs\\Men\u00FC.cs",
+              "RelativeToolTip": "Clock Repairs\\Men\u00FC.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAgwD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-15T17:36:00.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Tamir Bitir.cs",
+              "DocumentMoniker": "C:\\Users\\efevo\\source\\repos\\Clock Repairs\\Clock Repairs\\Tamir Bitir.cs",
+              "RelativeDocumentMoniker": "Clock Repairs\\Tamir Bitir.cs",
+              "ToolTip": "C:\\Users\\efevo\\source\\repos\\Clock Repairs\\Clock Repairs\\Tamir Bitir.cs",
+              "RelativeToolTip": "Clock Repairs\\Tamir Bitir.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-08-09T12:44:25.958Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

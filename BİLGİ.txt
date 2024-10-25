@@ -1,0 +1,9 @@
+Sabit kodlar classından SQL bağlantısını değiştirdikten sonra kullanıma hazır hale gelmektedir.
+
+
+Teslim Alma : Ürünün dükkana girişi için açılan ekran.
+Tamir Giriş : Ürünün tamir türü ve gönderilecek firma seçilir.
+Tamir Bitir : Ürünün tamir işlemini bitirip müşteriye teslim etmek için hazır hale getirilir.
+Teslim Etme : Ürünün müşteriye teslim aşamasıdır.
+
+Diğer ki formlarda da orada ki işlemlere göre hareket edilir.
